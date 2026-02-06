@@ -5,11 +5,9 @@ metadata:
   description: GitHub Action for writing data into BigQuery from within a Github workflow
   annotations:
     github.com/project-slug: Staffbase/bigquery-github-action
-    github.com/team-slug: Staffbase/pokemon
   tags:
     - github-action
-    - bash
+    - infrastructure
 spec:
-  type: library
+  type: other
   lifecycle: production
-  owner: pokemon
